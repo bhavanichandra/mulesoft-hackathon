@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+
+:root {
+  --bs-font-sans-serif: "Roboto Condensed", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Open Sans Condensed", sans-serif;
+}
+
+body {
+  background-color: #4a7059;
+}
